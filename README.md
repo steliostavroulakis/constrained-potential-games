@@ -1,6 +1,6 @@
 # Constrained Potential Games 
 
-This includes the code for the experimental section of the paper entitled: "Computing Nash Equilibria in Potential Games with Private
+This repository includes the code for the experimental section of the paper entitled: "Computing Nash Equilibria in Potential Games with Private
 Uncoupled Constraints"
 
 ## What is included:
