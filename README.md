@@ -1,7 +1,7 @@
 # Constrained Potential Games 
 
 This repository includes the code for the experimental section of the paper entitled: "Computing Nash Equilibria in Potential Games with Private
-Uncoupled Constraints"
+Uncoupled Constraints" in the form of google colab notebooks.
 
 ## What is included:
 
