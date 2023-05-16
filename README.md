@@ -1,11 +1,14 @@
-# Pfam Classifier :dna:
+# Constrained Potential Games 
 
-This project is a [PyTorch](https://pytorch.org/) implementation of a **protein classifier**, inspired by (:link:[ProtCNN](https://www.biorxiv.org/content/10.1101/626507v3.full)). <br/>
+This includes the code for the experimental section of the paper entitled: "Computing Nash Equilibria in Potential Games with Private
+Uncoupled Constraints"
+
+Experiments are in the form of jupyter notebooks.
+
+
 
 ## Table of Contents
----
-### Repository Understanding
-* [File Structure](#file-structure)
+* [Google Colab ](#file-structure)
 * [Download Dataset and/or Trained Model](#download-dataset)
 * [Sequence of operation](#modes-of-operation)
     * [Create Docker Container](#ins-create-docker-container-ins)
