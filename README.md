@@ -5,6 +5,6 @@ Uncoupled Constraints" in the form of google colab notebooks.
 
 ## What is included:
 
-* **Experimental findings** presented in the paper
+* **Experimental findings** presented in the paper, use the notebook to follow along and run the cells.
 * **Hyperparameter-sweeps**
 * **Interactive demo** showcasing players minimizing congestion while adhering to private constraints.
